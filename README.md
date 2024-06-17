@@ -22,13 +22,6 @@ Features:
 - [QRCode.react](https://www.npmjs.com/package/qrcode.react) - Qr Code package
 - [React Color](https://casesandberg.github.io/react-color/) - Color Pickers package
 
-### Continued development
-
-Future features:
-- Serverless database connection
-- Authentication with login
-- Save the Qr Code generated
-
 ### Useful resources
 
 - [QRCode.react](https://www.npmjs.com/package/qrcode.react)
